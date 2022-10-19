@@ -9,6 +9,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
 - 🧻 I’m pursuing Bachelor of Science in Information Technology/BSIT.
 - 👨‍🏫 I’m currently working as a freelancer in small projects.
 - 💻 I mainly write in C#, Python, Java, Visual Basic and working my way up to lean C++.
@@ -16,9 +22,13 @@
 - ✍️ On my spare time I still like to code, play boardgames (mostly RPGs) and engage in single player game activity.
 
 ---
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dioromains&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dioromains&layout=compact&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
