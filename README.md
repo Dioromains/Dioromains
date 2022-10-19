@@ -22,6 +22,7 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Test Post](https://dev.to/dioromains/test-post-4p10)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
