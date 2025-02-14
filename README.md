@@ -9,8 +9,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
-
 💼 Currently working as a freelancer on a variety of software development projects.
 
 🌱 Passionate about computer security, code obfuscation, and tackling security challenges.
